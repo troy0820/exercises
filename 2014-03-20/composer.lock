@@ -1,0 +1,80 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "8afff0cd4222836ab282902155bf94fd",
+    "packages": [
+        {
+            "name": "dominionenterprises/util",
+            "version": "v1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dominionenterprises/util-php.git",
+                "reference": "6c9c2cd2041a4bd4b9429ddec1df1bf477bbbe78"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dominionenterprises/util-php/zipball/6c9c2cd2041a4bd4b9429ddec1df1bf477bbbe78",
+                "reference": "6c9c2cd2041a4bd4b9429ddec1df1bf477bbbe78",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "dominionenterprises/dws-coding-standard": "~1.1",
+                "lib-libxml": "*",
+                "phpunit/phpunit": "~3.7.19"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "DominionEnterprises\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Spencer Rinehart",
+                    "email": "anubis@overthemonkey.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Jonathan Gaillard",
+                    "email": "jonathan.gaillard@dominionenterprises.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Chad Gray",
+                    "email": "chadwickgray@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A collection of utility classes",
+            "keywords": [
+                "utility"
+            ],
+            "time": "2014-03-04 16:09:51"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": {
+        "php": ">=5.3.2"
+    },
+    "platform-dev": [
+
+    ]
+}
