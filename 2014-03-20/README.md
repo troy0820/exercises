@@ -27,6 +27,16 @@ For this exercise you will be tasked to implement the `BooksCollection` and `Boo
 [cURL Functions](http://us3.php.net/manual/en/ref.curl.php)
 
 
+### Composer
+
+This exercise requires [Composer](https://getcomposer.org/). Installing composer is very simple:
+
+```
+$ curl -sS https://getcomposer.org/installer | php
+$ mv composer.phar /usr/local/bin/composer
+```
+you may have to run the `mv` command as `sudo`
+
 API Documentation
 =================
 
