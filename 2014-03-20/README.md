@@ -1,7 +1,7 @@
 Exercise 3 Books Collection
 ===========================
 
-For this exercise you will be tasked to implement the `IBooksCollection` and `IBook` interfaces in order to have the given `run.php` execute without error.
+For this exercise you will be tasked to implement the `BooksCollection` and `Book' classes in order to have the given `run.php` execute without error.
 
 ### Rules
 * `run.php` cannot be modified in any way. 
