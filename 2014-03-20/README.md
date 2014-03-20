@@ -15,6 +15,14 @@ For this exercise you will be tasked to implement the `BooksCollection` and `Boo
 `php run.php Horror`
 
 
+### Relevant PHP References
+[Interator](http://www.php.net/manual/en/class.iterator.php)
+[Countable](http://www.php.net/manual/en/class.countable.php)
+[DateTime](http://www.php.net/manual/en/class.datetime.php)
+[Magic Methods](http://www.php.net/manual/en/language.oop5.magic.php)
+[cURL Functions](http://us3.php.net/manual/en/ref.curl.php)
+
+
 API Documentation
 =================
 
