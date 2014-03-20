@@ -1,0 +1,12 @@
+{
+    "name": "hrmeetup/exerci",
+    "description": "Exercises for the Hampton Roads PHP Meetup",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2",
+        "dominionenterprises/util": "~1.0"
+    },
+    "autoload": {
+        "psr-0": { "": "src" }
+    }
+}
